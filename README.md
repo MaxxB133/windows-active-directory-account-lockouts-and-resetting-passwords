@@ -1,6 +1,5 @@
 <p align="center">
 <img <img width="611" height="360" alt="image" src="https://github.com/user-attachments/assets/860e36a5-66e4-4d26-a5cb-1309d330770c" />
-/>
 </p>
 <h1>Active Directory - Congfiguring Account Lockouts and Resetting Passwords Using Group Policy</h1>
 This tutorial teaches how to use Group Policy to configure account lockouts, as well as how to reset a locked accounts password.<br />
