@@ -1,8 +1,7 @@
-<img width="2565" height="1455" alt="Screenshot (132))" src="https://github.com/user-attachments/assets/061381d5-e2db-4e45-b986-bdc4f5334a40" /><p align="center">
-<img width="611" height="360" alt="image" src="https://github.com/user-attachments/assets/84286b7c-b517-4a8f-9ac5-73725e8ba0ca" /
+<p align="center">
+<img <img width="611" height="360" alt="image" src="https://github.com/user-attachments/assets/860e36a5-66e4-4d26-a5cb-1309d330770c" />
 />
 </p>
-
 <h1>Active Directory - Congfiguring Account Lockouts and Resetting Passwords Using Group Policy</h1>
 This tutorial teaches how to use Group Policy to configure account lockouts, as well as how to reset a locked accounts password.<br />
 
@@ -85,12 +84,4 @@ Attempt to log back in on the account with the new password! (notice that you ar
 </p>
 </p>
 
-<br />
-  
-<img width="1051" height="731" alt="Screenshot (126))" src="https://github.com/user-attachments/assets/ef525414-7eca-45b4-bf32-bbda03bea1f3" />
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
