@@ -7,7 +7,7 @@ This tutorial teaches how to use Group Policy to configure account lockouts, as 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube:Windows Active Directory - Congfiguring Account Lockouts and Resetting Passwords Using Group Policy](https://youtu.be/xxis0gYdf6E)
+- ### [YouTube: Windows Active Directory - Congfiguring Account Lockouts and Resetting Passwords Using Group Policy](https://youtu.be/xxis0gYdf6E)
 
 <h2>Environments and Technologies Used</h2>
 
